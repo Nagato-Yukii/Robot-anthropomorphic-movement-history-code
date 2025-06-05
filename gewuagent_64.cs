@@ -1,3 +1,5 @@
+//这份代码只在RL-Playground下，支持quadruped-march训练(G1)
+
 using UnityEngine;
 using Unity.MLAgents;
 using Unity.MLAgents.Actuators;
