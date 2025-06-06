@@ -5,3 +5,7 @@
 平台:格物gewu (URL:https://github.com/loongOpen/Unity-RL-Playground.git)
 
 机器人URDF模型下载:URL:https://github.com/linqi-ye/robot-universe.git
+
+训练指令:
+mlagents-learn trainer_config.yaml --run-id=go2trot --force
+mlagents-learn trainer_config.yaml --run-id=go2trot --resume
