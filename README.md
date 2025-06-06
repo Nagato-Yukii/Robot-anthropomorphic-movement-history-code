@@ -8,6 +8,8 @@
 
 训练指令:
 
+E:\robot\loongopen_Unity_RL_PLayground\Unity-RL-Playground\gewu\Project\Assets\Retarget
+
 mlagents-learn trainer_config.yaml --run-id=go2trot --force
 
 mlagents-learn trainer_config.yaml --run-id=go2trot --resume
