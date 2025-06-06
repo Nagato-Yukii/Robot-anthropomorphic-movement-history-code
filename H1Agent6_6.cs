@@ -1,3 +1,6 @@
+//最后一次修改:2025/6/6 23:36
+//支持在retarget中进行训练(初始版本，仍需修改奖励等),没有trainconfig直接去RL-Playground的复制到retarget文件夹下
+//在只有挥手动作的情况下(wave_both15_poses),训练几分钟后，在终端还没有任何次数显示，暂停，训练结果和前馈动作相比，手臂抬升更高，抬升更慢
 using UnityEngine;
 using Unity.MLAgents;
 using Unity.MLAgents.Actuators;
