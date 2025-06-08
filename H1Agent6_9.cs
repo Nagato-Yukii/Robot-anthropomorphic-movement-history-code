@@ -1,5 +1,5 @@
-//最后一次修改:2025/6/6 0:00
-//支持在retarget中进行训练(初始版本，仍需修改奖励等),没有trainconfig直接去RL-Playground的复制到retarget文件夹下
+//最后一次修改:2025/6/9 4:49
+//其他部分基本完毕，还差导入前馈和奖励计算要修改，运行时，勾选fixbody看不到前馈没有被导入，机器人直接后倒，train时，也是直接后倒
 using UnityEngine;
 using Unity.MLAgents;
 using Unity.MLAgents.Actuators;
