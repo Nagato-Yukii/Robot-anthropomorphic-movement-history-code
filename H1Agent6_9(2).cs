@@ -1,5 +1,5 @@
-//最后一次修改:2025/6/9 4:49
-//其他部分基本完毕，还差导入前馈和奖励计算要修改，运行时，勾选fixbody看不到前馈没有被导入，机器人直接后倒，train时，也是直接后倒
+//最后一次修改:2025/6/9 14：01
+//其他部分基本完毕，导入前馈被修正，训练时，网络输出一直是0，说明训练逻辑仍有问题
 using UnityEngine;
 using Unity.MLAgents;
 using Unity.MLAgents.Actuators;
