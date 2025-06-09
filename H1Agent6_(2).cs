@@ -1,5 +1,4 @@
-//最后一次修改:2025/6/6 0:00
-//支持在retarget中进行训练(初始版本，仍需修改奖励等),没有trainconfig直接去RL-Playground的复制到retarget文件夹下
+//最后一次修改:2025/6/9 14：01 //其他部分基本完毕，导入前馈被修正，训练时，网络输出一直是0，说明训练逻辑仍有问题
 using UnityEngine;
 using Unity.MLAgents;
 using Unity.MLAgents.Actuators;
